@@ -1,0 +1,11 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+  accessKey:
+  secretKey:
+  bucketName:
+
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
